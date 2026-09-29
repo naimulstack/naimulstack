@@ -1,11 +1,3 @@
-<!-- Header -->
-<div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"
-  />
-</div>
-
 <!-- Profile Views -->
 <div align="center">
   <img
@@ -63,7 +55,7 @@
 <!-- What I Do -->
 <h2>🚀 What I Do</h2>
 
-<table>
+<table align="center" border="0">
   <tr>
     <td width="60%" valign="top">
       <ul>
@@ -76,12 +68,16 @@
         <li>📚 Continuously learn and explore new technologies</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="./coding.gif" width="300" alt="Coding Animation" />
+
+   <td width="40%" align="center" valign="middle">
+      <img
+        src="./code.gif"
+        width="230"
+        alt="Coding Animation"
+      >
     </td>
   </tr>
 </table>
----
 
 <!-- Currently Exploring -->
 <h2>📚 Currently Exploring</h2>
@@ -269,14 +265,5 @@
   <p>
     Let's learn, build and grow together.
   </p>
-
-</div>
-
-<div align="center">
-
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"
-  />
 
 </div>
