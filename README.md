@@ -1,44 +1,103 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<!-- Header -->
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"
+  />
 </div>
 
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:naimulstack?theme=gelbooru&padding=5&scale=1&align=top&pixelated=1&darkmode=auto"  />
+<!-- Profile Views -->
+<div align="center">
+  <img
+    src="https://count.getloli.com/@:naimulstack?theme=gelbooru&padding=5&scale=1&align=top&pixelated=1&darkmode=auto"
+    alt="Profile Views"
+  />
 </div>
 
-###
+<br>
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://www.image2url.com/r2/default/gifs/1790579767030-0351c085-c0f0-4c80-9c24-23173c487a17.gif"  />
+<!-- GIF -->
+<div align="center">
+  <img
+    height="200"
+    src="https://www.image2url.com/r2/default/gifs/1790579767030-0351c085-c0f0-4c80-9c24-23173c487a17.gif"
+    alt="Coding Animation"
+  />
 </div>
 
-###
+<br>
 
-<h1 data-importer="text" align="center">Hey 👋I'm Naimul Huda Jihan</h1>
+<!-- Introduction -->
+<h1 align="center">
+  Hey 👋, I'm Naimul Huda Jihan
+</h1>
 
-###
+<div align="center">
 
-<p data-importer="text" align="left">🤵About Me</p>
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;React+Developer;Next.js+Developer;TypeScript+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Building"
+    alt="Typing Animation"
+  />
 
-###
+</div>
 
-<p data-importer="text" align="left">Hi, I'm Naimul Huda Jihan, a Full-Stack Web Developer in progress. I enjoy building modern, responsive, and user-friendly web applications. I'm continuously learning new technologies and improving my development skills.</p>
+<br>
 
-###
+<!-- About Me -->
+<h2>🤵 About Me</h2>
 
-<h2 data-importer="text" align="left">🚀 Currently Exploring</h2>
+<p>
+  I'm a Full-Stack Web Developer in progress who enjoys building modern,
+  responsive, and user-friendly web applications. I love turning ideas into
+  functional digital experiences and continuously improving my development
+  skills through real-world projects and consistent learning.
+</p>
 
-###
+<p>
+  I'm currently focused on strengthening my skills in React, Next.js,
+  TypeScript, Tailwind CSS, and modern web development practices.
+</p>
 
-<p data-importer="text" align="left">=> Exploring Next.js and advanced web development concepts.<br>=> Building modern and responsive web applications.<br>=> Improving my skills in TypeScript, React, Tailwind CSS, and Next.js.<br>=> Working on real-world projects to gain practical experience.</p>
+---
 
-###
+<!-- What I Do -->
+<h2>🚀 What I Do</h2>
 
-<h2 data-importer="text" align="left">🛠️ Skills</h2>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>💻 Build modern and responsive web applications</li>
+        <li>⚛️ Develop interactive user interfaces with React</li>
+        <li>▲ Build scalable applications with Next.js</li>
+        <li>🎨 Create clean and responsive designs with Tailwind CSS</li>
+        <li>🔷 Write maintainable and type-safe code with TypeScript</li>
+        <li>🔐 Work with authentication and modern web application features</li>
+        <li>📚 Continuously learn and explore new technologies</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="./coding.gif" width="300" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
+---
 
-###
+<!-- Currently Exploring -->
+<h2>📚 Currently Exploring</h2>
+
+<ul>
+  <li>Advanced Next.js concepts</li>
+  <li>Full-Stack application development</li>
+  <li>TypeScript best practices</li>
+  <li>Modern authentication systems</li>
+  <li>Performance and scalable web applications</li>
+  <li>Real-world project development</li>
+</ul>
+
+<!-- Tech Stack -->
+
+<h2>🛠️ Tech Stack</h2>
 
 <h3 data-importer="text" align="center">Frontend:</h3>
 
@@ -82,48 +141,142 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
 </div>
 
-###
 
-<h2 data-importer="text" align="left">🔗 Connect With Me</h2>
+---
 
-###
+<!-- Development Philosophy -->
+<h2>💡 Development Philosophy</h2>
 
-<div data-importer="socials" align="left">
-  <a href="https://discord.gg/W8TR4ww8V" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/naimul-huda-zihan-97652323b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/naimulhudajihan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/naimul_huda_jihan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mdnaimulhudajihan@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/qr/TILFQZFQ33UQE1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
+<div align="center">
+
+  <p>
+    <b>Learn → Build → Improve → Repeat</b>
+  </p>
+
+  <p>
+    I believe consistent learning and real-world practice are the keys
+    to becoming a better developer.
+  </p>
+
 </div>
 
-###
+---
 
-<h2 data-importer="text" align="left">📊 GitHub Stats</h2>
+<!-- GitHub Stats -->
+<h2>📊 GitHub Stats</h2>
 
-###
+<div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/naimulstack/naimulstack/gh-pages/github-contribution-grid-snake.svg"
-  alt="Snake animation"
-/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=naimulstack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="180"
+    alt="GitHub Stats"
+  />
 
-###
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimulstack&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
-###
+<br>
+
+<!-- Pacman -->
+<div align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/naimulstack/naimulstack/output/pacman-contribution-graph-dark.svg"
+    alt="Pacman contribution graph"
+    width="100%"
+  />
+
+</div>
+
+---
+
+<!-- Connect -->
+<h2>🔗 Connect With Me</h2>
+
+<div align="center">
+
+  <a href="https://discord.gg/W8TR4ww8V">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
+      width="52"
+      height="40"
+      alt="Discord"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/naimul-huda-zihan-97652323b/">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      width="52"
+      height="40"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://www.facebook.com/naimulhudajihan/">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
+      width="52"
+      height="40"
+      alt="Facebook"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/naimul_huda_jihan/">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+      width="52"
+      height="40"
+      alt="Instagram"
+    />
+  </a>
+
+  <a href="mailto:mdnaimulhudajihan@gmail.com">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+      width="52"
+      height="40"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://wa.me/qr/TILFQZFQ33UQE1">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
+      width="52"
+      height="40"
+      alt="WhatsApp"
+    />
+  </a>
+
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+
+  <p>
+    <b>Thanks for visiting my profile! 🚀</b>
+  </p>
+
+  <p>
+    Let's learn, build and grow together.
+  </p>
+
+</div>
+
+<div align="center">
+
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"
+  />
+
+</div>
