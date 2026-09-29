@@ -116,8 +116,8 @@
 ###
 
 <img
-  src="https://raw.githubusercontent.com/naimulstack/naimulstack/output/github-contribution-grid-snake.svg"
-  alt="GitHub Snake Animation"
+  src="https://raw.githubusercontent.com/naimulstack/naimulstack/gh-pages/github-contribution-grid-snake.svg"
+  alt="Snake animation"
 />
 
 ###
