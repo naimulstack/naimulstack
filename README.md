@@ -9,9 +9,10 @@
 <br>
 
 <!-- GIF -->
-<div align="center">
+<div align="center" >
   <img
-    height="200"
+    height="100%"
+    width="100%"
     src="https://www.image2url.com/r2/default/gifs/1790579767030-0351c085-c0f0-4c80-9c24-23173c487a17.gif"
     alt="Coding Animation"
   />
@@ -25,15 +26,11 @@
 </h1>
 
 <div align="center">
-
   <img
     src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;React+Developer;Next.js+Developer;TypeScript+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Building"
     alt="Typing Animation"
   />
-
 </div>
-
-<br>
 
 <!-- About Me -->
 <h2>🤵 About Me</h2>
@@ -55,7 +52,7 @@
 <!-- What I Do -->
 <h2>🚀 What I Do</h2>
 
-<table align="center" border="0">
+<table align="center">
   <tr>
     <td width="60%" valign="top">
       <ul>
@@ -69,7 +66,7 @@
       </ul>
     </td>
 
-   <td width="40%" align="center" valign="middle">
+  <td width="40%" align="center" valign="middle">
       <img
         src="./code.gif"
         width="230"
@@ -92,59 +89,100 @@
 </ul>
 
 <!-- Tech Stack -->
-
 <h2>🛠️ Tech Stack</h2>
 
-<h3 data-importer="text" align="center">Frontend:</h3>
+<table align="center" border="0">
+  <tr>
+    <!-- Titles -->
+    <th width="50%" align="center">
+      Frontend
+    </th>
 
-###
+   <th width="20%" align="center">
+      Frameworks
+    </th>
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="60" alt="react logo"  />
-</div>
+   <th width="30%" align="center">
+      Tools
+    </th>
+  </tr>
 
-###
+  <tr>
+    <!-- Frontend Icons -->
+    <td align="center">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        height="35"
+        alt="HTML5"
+      />
+      &nbsp;
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        height="35"
+        alt="CSS3"
+      />
+      &nbsp;
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        height="35"
+        alt="JavaScript"
+      />
+      &nbsp;
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        height="35"
+        alt="TypeScript"
+      />
+      &nbsp;
+      <img
+        src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
+        height="35"
+        alt="Tailwind CSS"
+      />
+      &nbsp;
+      <img
+        src="https://cdn.simpleicons.org/react/61DAFB"
+        height="35"
+        alt="React"
+      />
+    </td>
 
-<h3 data-importer="text" align="center">Frameworks:</h3>
+   <!-- Framework Icons -->
+  <td align="center">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        height="35"
+        alt="Next.js"
+      />
+    </td>
 
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-</div>
-
-###
-
-<h3 data-importer="text" align="center">Tools:</h3>
-
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-</div>
-
-
----
+   <!-- Tools Icons -->
+  <td align="center">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        height="35"
+        alt="Git"
+      />
+      &nbsp;
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+        height="35"
+        alt="GitHub"
+      />
+      &nbsp;
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        height="35"
+        alt="VS Code"
+      />
+    </td>
+  </tr>
+</table>
 
 <!-- Development Philosophy -->
 <h2>💡 Development Philosophy</h2>
 
 <div align="center">
-
   <p>
     <b>Learn → Build → Improve → Repeat</b>
   </p>
@@ -153,7 +191,6 @@
     I believe consistent learning and real-world practice are the keys
     to becoming a better developer.
   </p>
-
 </div>
 
 ---
@@ -163,36 +200,32 @@
 
 <table align="center" border="0">
   <tr>
-    
-<!-- GitHub Stats -->
-<td width="50%" align="center" valign="top">
 
-  <img
+   <!-- GitHub Stats -->
+   <td width="50%" align="center" valign="top">
+
+   <img
         src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=400&lines=GitHub+Stats;My+Coding+Activity;Keep+Building+%F0%9F%9A%80"
         alt="GitHub Stats Animation"
       />
 
-  <br><br>
-
-  <img
+   <img
         src="https://github-readme-stats-six-rosy-28.vercel.app/api?username=naimulstack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
         height="180"
         alt="GitHub Stats"
       />
 
-   </td>
+  </td>
 
-<!-- Top Languages -->
- <td width="50%" align="center" valign="top">
+   <!-- Top Languages -->
+  <td width="50%" align="center" valign="top">
 
   <img
         src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=400&lines=Top+Languages;Technologies+I+Use;Code+%26+Create+%F0%9F%92%BB"
         alt="Top Languages Animation"
       />
 
-  <br><br>
-
-  <img
+   <img
         src="https://github-readme-stats-six-rosy-28.vercel.app/api/top-langs/?username=naimulstack&layout=compact&theme=tokyonight&hide_border=true"
         height="180"
         alt="Top Languages"
@@ -202,15 +235,14 @@
 
   </tr>
 </table>
+
 <!-- Pacman -->
 <div align="center">
-
   <img
     src="https://raw.githubusercontent.com/naimulstack/naimulstack/output/pacman-contribution-graph-dark.svg"
     alt="Pacman contribution graph"
     width="100%"
   />
-
 </div>
 
 ---
