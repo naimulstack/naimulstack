@@ -79,105 +79,49 @@
 <!-- Currently Exploring -->
 <h2>📚 Currently Exploring</h2>
 
-<ul>
-  <li>Advanced Next.js concepts</li>
-  <li>Full-Stack application development</li>
-  <li>TypeScript best practices</li>
-  <li>Modern authentication systems</li>
-  <li>Performance and scalable web applications</li>
-  <li>Real-world project development</li>
-</ul>
+<table align="center" width="100%" border="0">
+  <tr>
+
+<!-- Exploring List -->
+ <td width="65%" valign="middle">
+
+  <ul>
+        <li>Advanced Next.js concepts</li>
+        <li>Full-Stack application development</li>
+        <li>TypeScript best practices</li>
+        <li>Modern authentication systems</li>
+        <li>Performance and scalable web applications</li>
+        <li>Real-world project development</li>
+      </ul>
+
+  </td>
+
+  <!-- Animation GIF -->
+   <td width="35%" align="center" valign="middle">
+
+   <img
+        src="./animation.gif"
+        width="400"
+        alt="Animation"
+      />
+
+  </td>
+
+  </tr>
+</table>
 
 <!-- Tech Stack -->
 <h2>🛠️ Tech Stack</h2>
 
-<table align="center" border="0">
-  <tr>
-    <!-- Titles -->
-    <th width="50%" align="center">
-      Frontend
-    </th>
+<div align="center">
 
-   <th width="20%" align="center">
-      Frameworks
-    </th>
+  <img
+    src="./Language.gif"
+    width="100%"
+    alt="Language"
+  />
 
-   <th width="30%" align="center">
-      Tools
-    </th>
-  </tr>
-
-  <tr>
-    <!-- Frontend Icons -->
-    <td align="center">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-        height="35"
-        alt="HTML5"
-      />
-      &nbsp;
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-        height="35"
-        alt="CSS3"
-      />
-      &nbsp;
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        height="35"
-        alt="JavaScript"
-      />
-      &nbsp;
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-        height="35"
-        alt="TypeScript"
-      />
-      &nbsp;
-      <img
-        src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
-        height="35"
-        alt="Tailwind CSS"
-      />
-      &nbsp;
-      <img
-        src="https://cdn.simpleicons.org/react/61DAFB"
-        height="35"
-        alt="React"
-      />
-    </td>
-
-   <!-- Framework Icons -->
-  <td align="center">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        height="35"
-        alt="Next.js"
-      />
-    </td>
-
-   <!-- Tools Icons -->
-  <td align="center">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        height="35"
-        alt="Git"
-      />
-      &nbsp;
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-        height="35"
-        alt="GitHub"
-      />
-      &nbsp;
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-        height="35"
-        alt="VS Code"
-      />
-    </td>
-  </tr>
-</table>
+</div>
 
 <!-- Development Philosophy -->
 <h2>💡 Development Philosophy</h2>
