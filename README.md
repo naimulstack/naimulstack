@@ -127,9 +127,14 @@
 <h2>💡 Development Philosophy</h2>
 
 <div align="center">
-  <p>
-    <b>Learn → Build → Improve → Repeat</b>
-  </p>
+  
+<div align="center">
+  <img
+    src="./learn-build-improve-repeat.gif"
+    alt="Learn Build Improve Repeat"
+    width="500"
+  />
+</div>
 
   <p>
     I believe consistent learning and real-world practice are the keys
